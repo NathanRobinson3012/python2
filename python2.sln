@@ -9,9 +9,13 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "calculator", "calculator\ca
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Factorial", "Factorial\Factorial.pyproj", "{89CD2F13-F1AA-47C1-A4F9-9AC83AF83987}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Vowels", "Vowels\Vowels.pyproj", "{18AD72B8-C68E-414C-8A06-6CC4FCB842E3}"
+EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Grades", "Grades\Grades.pyproj", "{2FCD6439-9255-471D-AE1A-F33A866C91DA}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Vowels", "Vowels\Vowels.pyproj", "{18AD72B8-C68E-414C-8A06-6CC4FCB842E3}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "agelist", "agelist\agelist.pyproj", "{89E905D0-8BDE-4BC0-944E-AEB4E680CCA8}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "timecalc", "timecalc\timecalc.pyproj", "{DB2E265C-CEDA-4E6E-BB04-1997BBA0A6E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,10 +29,14 @@ Global
 		{654BC9D9-B1BA-43DD-A406-4771071B7B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89CD2F13-F1AA-47C1-A4F9-9AC83AF83987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{89CD2F13-F1AA-47C1-A4F9-9AC83AF83987}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2FCD6439-9255-471D-AE1A-F33A866C91DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2FCD6439-9255-471D-AE1A-F33A866C91DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18AD72B8-C68E-414C-8A06-6CC4FCB842E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{18AD72B8-C68E-414C-8A06-6CC4FCB842E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FCD6439-9255-471D-AE1A-F33A866C91DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FCD6439-9255-471D-AE1A-F33A866C91DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89E905D0-8BDE-4BC0-944E-AEB4E680CCA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89E905D0-8BDE-4BC0-944E-AEB4E680CCA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB2E265C-CEDA-4E6E-BB04-1997BBA0A6E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB2E265C-CEDA-4E6E-BB04-1997BBA0A6E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
