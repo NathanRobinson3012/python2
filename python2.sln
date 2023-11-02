@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "python2", "python2\python2.pyproj", "{8B33C6BB-7913-48BC-9BEA-71D4937253DA}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "calculator", "calculator\calculator.pyproj", "{654BC9D9-B1BA-43DD-A406-4771071B7B5C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Grades", "Grades\Grades.pyproj", "{2FCD6439-9255-471D-AE1A-F33A866C91DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B33C6BB-7913-48BC-9BEA-71D4937253DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B33C6BB-7913-48BC-9BEA-71D4937253DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{654BC9D9-B1BA-43DD-A406-4771071B7B5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{654BC9D9-B1BA-43DD-A406-4771071B7B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FCD6439-9255-471D-AE1A-F33A866C91DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FCD6439-9255-471D-AE1A-F33A866C91DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55AA34F9-299E-4BC8-A38A-5A5C1666889F}
+	EndGlobalSection
+EndGlobal
