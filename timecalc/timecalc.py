@@ -1,5 +1,4 @@
 from decimal import ROUND_DOWN
-from os import close
 
 
 while True:
