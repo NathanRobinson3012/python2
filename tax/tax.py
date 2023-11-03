@@ -6,7 +6,7 @@ BRACKET2=0.4
 BRACKET3=0.45
 
 def GetIncomeTax (salary):
-    tax=0
+    tax=0.0
     if salary<=ALLOWANCE:
         print("income within personal allowence")
         
@@ -25,5 +25,5 @@ def GetIncomeTax (salary):
     return tax
 
 
-salary=int(input("enter your income in whole pounds"))
-print(f"you will pay �{GetIncomeTax(salary)} in tax")
+salary=int(input("enter your income in whole pounds :£"))
+print("you will pay £{0:.2f} in tax".format(GetIncomeTax(salary)))
